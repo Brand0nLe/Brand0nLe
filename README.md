@@ -1,5 +1,6 @@
 ## About Me
-👋 Hi, I'm Brandon! I'm a passionate junior software developer with experience in various technologies and a strong interest in web development. Currently a CodeStack Academy Student set to graduate this coming September 2023🎓. Excited to see where I end up in this never-ending journey through tech. Fun Fact: I'm team Hufflepuff :hufflepuff:![image](https://github.com/Brand0nLe/Brand0nLe/assets/116022032/b38d2edc-854d-4cfe-bff7-c4676877b4fd)
+👋 Hi, I'm Brandon! I'm a passionate junior software developer with experience in various technologies and a strong interest in web development. Currently a CodeStack Academy Student set to graduate this coming September 2023🎓. Excited to see where I end up in this never-ending journey through tech. Fun Fact: I'm team Hufflepuff <img src="https://github.com/Brand0nLe/Brand0nLe/raw/main/assets/116022032/b38d2edc-854d-4cfe-bff7-c4676877b4fd.png" width="30" alt="Image">
+
 
 
 ## Contact Me
