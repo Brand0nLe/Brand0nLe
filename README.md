@@ -1,7 +1,6 @@
 # [Brandon] Cuong Tran Le
 
-# Contact
-> **Where you can reach me:** 
+# Where you can reach me:
 >
 >Email me at [brandonctle.dev@gmail.com](mailto:brandonctle.dev@gmail.com).
 >
