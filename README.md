@@ -2,11 +2,11 @@
 
 ## Contact
 > **Where you can reach me:** 
-Email me at [brandonctle.dev@gmail.com](mailto:brandonctle.dev@gmail.com).
+>Email me at [brandonctle.dev@gmail.com](mailto:brandonctle.dev@gmail.com).
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/brandonctle/).
+>Connect with me on [LinkedIn](https://www.linkedin.com/in/brandonctle/).
 
-You can also [visit my portfolio website](https://brandonle.azurewebsites.net/). 
+>You can also [visit my portfolio website](https://brandonle.azurewebsites.net/). 
 
 
 
