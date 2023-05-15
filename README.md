@@ -18,6 +18,13 @@ Here are some of the skills and technologies I'm currently working with:
 >- Bootstrap
 >- Microsoft Azure
 
+## Featured Project: Pokemon Catcher App
+
+Have you ever wanted to be a Pokemon Trainer?
+🔗 [Pokemon Catcher App](https://whoisthatpokemon.azurewebsites.net/)
+🔗 [GitHub Repository](https://github.com/Brand0nLe/pokemonapireact)
+Give it a try and start building your dream team of Pokemon today!
+
 <!-- ## Projects
 I'm passionate about working on exciting projects. Here are a few notable ones:
 
