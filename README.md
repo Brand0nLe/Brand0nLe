@@ -1,5 +1,5 @@
 ## About Me
-👋 Hi, I'm Brandon! I'm a passionate software developer with experience in various technologies and a strong interest in web development and data analysis. I enjoy building creative solutions and collaborating with others to solve complex problems.
+👋 Hi, I'm Brandon! I'm a passionate software developer with experience in various technologies and a strong interest in web development. I enjoy building creative solutions and collaborating with others to solve complex problems.
 
 ## Contact Me
 📧 You can reach me via email at [brandonctle.dev@gmail.com](mailto:brandonctle.dev@gmail.com).
