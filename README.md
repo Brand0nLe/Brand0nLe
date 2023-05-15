@@ -11,12 +11,12 @@
 ## Skills
 Here are some of the skills and technologies I'm currently working with:
 
->- HTML/CSS          >- C#
->- JavaScript         >- Notion
->- Typescript         >- Figma
->- React               >- Jira
->- Bootstrap              >- Material UI
->- Microsoft Azure         >- Tailwind CSS
+>- HTML/CSS          
+>- JavaScript         
+>- Typescript        
+>- React               
+>- Bootstrap             
+>- Microsoft Azure      
 
 ## Featured Project: Pokemon Catcher App
 
