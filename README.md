@@ -1,4 +1,14 @@
-### Hi there 👋
+# [Brandon] Cuong Tran Le
+
+## Contact
+> **Where you can reach me:** 
+Email me at [brandonctle.dev@gmail.com](mailto:brandonctle.dev@gmail.com).
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/brandonctle/).
+
+You can also [visit my portfolio website](https://brandonle.azurewebsites.net/). 
+
+
 
 <!--
 **Brand0nLe/Brand0nLe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
