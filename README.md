@@ -1,5 +1,5 @@
 ## About Me
-👋 Hi, I'm Brandon! I'm a passionate junior software developer with experience in various technologies and a strong interest in web development. Currently a CodeStack Academy Student set to graduate this coming September 2023🎓. Excited to see where I end up in this never-ending journey through tech.
+👋 Hi, I'm Brandon! I'm a passionate junior software developer with experience in various technologies and a strong interest in web development. Currently a CodeStack Academy Student set to graduate this coming September 2023🎓. Excited to see where I end up in this never-ending journey through tech. 
 
 
 ## Contact Me
