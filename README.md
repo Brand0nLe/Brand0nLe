@@ -16,8 +16,9 @@ Here are some of the skills and technologies I'm currently working with:
 >- TypeScript        
 >- React 
 >- Angular
->- Tailwind
->- Material UI              
+>- Tailwind CSS
+>- Material UI with React
+>- MAterial with Angular          
 >- Bootstrap             
 >- Microsoft Azure      
 
