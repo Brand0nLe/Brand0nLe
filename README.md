@@ -20,7 +20,8 @@ Here are some of the skills and technologies I'm currently working with:
 >- Material UI with React
 >- MAterial with Angular          
 >- Bootstrap             
->- Microsoft Azure      
+>- Microsoft Azure
+>- SQL   
 
 ## Featured Project: Pokemon Catcher App
 
