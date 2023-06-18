@@ -21,7 +21,8 @@ Here are some of the skills and technologies I'm currently working with:
 >- MAterial with Angular          
 >- Bootstrap             
 >- Microsoft Azure
->- SQL   
+>- SQL
+>- Dev Ops
 
 ## Featured Project: Pokemon Catcher App
 
