@@ -15,7 +15,7 @@ Here are some of the skills and technologies I'm currently working with:
 >- JavaScript         
 >- TypeScript        
 >- React 
->- Angular
+>- Angular 16
 >- Tailwind CSS
 >- Material UI with React
 >- MAterial with Angular          
