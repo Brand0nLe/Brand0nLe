@@ -24,6 +24,7 @@ Here are some of the skills and technologies I'm currently working with:
 >- Microsoft Azure
 >- Visual Studio Code
 >- Postman
+>- DevOps
 
 ## Featured Project: Pokemon Catcher App
 
