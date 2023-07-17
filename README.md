@@ -31,7 +31,8 @@ Here are some of the skills and technologies I'm currently working with:
 
 Have you ever wanted to be a Pokemon Trainer?
 
-🔗 [Pokemon Catcher App](https://whoisthatpokemon.azurewebsites.net/)
+🔗 [Pokemon Catcher App hosting currently unavailable](https://whoisthatpokemon.azurewebsites.net/)
+Azure links unavailable at the moment. I'm sorry for the inconvenience, but please be patient and I'll have this re-hosted soon. Thank you!
 
 🔗 [GitHub Repository](https://github.com/Brand0nLe/pokemonapireact)
 
