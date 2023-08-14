@@ -26,6 +26,7 @@ Here are some of the skills and technologies I'm currently working with:
 >- Visual Studio Code
 >- Postman
 >- DevOps
+>- CI/CD
 
 ## Featured Project: Pokemon Catcher App
 
