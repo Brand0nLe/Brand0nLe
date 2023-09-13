@@ -7,7 +7,7 @@
 
 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/brandonctle/) to stay updated on my professional journey.
 
-🌐 Visit my [portfolio website](https://brandonle.azurewebsites.net/) to learn more about my projects and explore my work.
+<!--🌐 Visit my [portfolio website](https://brandonle.azurewebsites.net/) to learn more about my projects and explore my work.-->
 
 ## Skills
 Here are some of the skills and technologies I'm currently working with:
