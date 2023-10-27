@@ -1,5 +1,5 @@
 ## About Me
-👋 Hi, I'm Brandon! I'm a junior software developer with experience in various technologies and a strong interest in web development. Currently an intern with Codestack at SJCOE. Set to graduate this coming September 2023🎓. Excited to see where I end up in this never-ending journey through tech. 
+👋 Hi, I'm Brandon! I'm a junior software developer with experience in various technologies and a strong interest in web development. Currently a Junior Web Developer with Codestack - SJCOE. Excited to see where I end up in this never-ending journey through tech. 
 
 
 ## Contact Me
